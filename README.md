@@ -1,1 +1,1 @@
-# Restrictied-Boltzmann-Machines
+# Restricted-Boltzmann-Machines
